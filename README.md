@@ -8,8 +8,8 @@ pip install xlsxwriter
 ```
 
 ## Run
-.\ getExcel.bat [xml file path] [output file name]
+getExcel.bat [xml file path] [output file name]
 For example
 ```
-.\ getExcel.bat ./ digivizer.xlsx
+getExcel.bat ./ digivizer.xlsx
 ```
